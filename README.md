@@ -4,6 +4,7 @@
 
 [![Youtube Summary App](https://github.com/somanyadav/Youtube-Summariser/blob/main/play.gif)](https://thumbs.gfycat.com/BeautifulTepidGermanwirehairedpointer-mobile.mp4)
 
+
 ## Why YouTube Summariser
 
 <ul>For many videos, the main content of the videos is only 50-60% of the total length.</ul>
